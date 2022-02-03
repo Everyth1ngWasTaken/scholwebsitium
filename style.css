@@ -45,12 +45,12 @@ footer {
 }
 
 a:link {
-  color: lightblue;
+  color: brown;
   outline: none;
 }
 
 a:hover {
-  color: brown;
+  color: lightblue;
   text-decoration: none;
 }
 
@@ -106,4 +106,8 @@ nav ul li {
   padding-right: 1.5em;
   padding-top: 1.5em;
   padding-bottom: 1em;
+}
+
+nav ul li a{
+    text-decoration:none;
 }
